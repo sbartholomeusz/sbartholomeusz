@@ -2,7 +2,7 @@
 I’m am a geek and lover of all things tech related…
 
 ## Technologies
-These days I'm mostly working with the following technologies ...
+These days I'm mostly working with ...<br/>
 ![Shane's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sbartholomeusz&layout=compact&langs_count=8)
 
 ## Find me around the web 🌎:
